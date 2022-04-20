@@ -1,8 +1,10 @@
 # BookNotes
 This is a special little repository with notes on the technical books I'm reading. 
 
-| Subject              | Title                                            | Author              | Completion Status |
-|----------------------|--------------------------------------------------|---------------------|-------------------|
-| Mathematics/Science  | The Art of Doing Science and Engineering         | Richard W. Hamming  | 8%                |
-| Software Engineering | Design Patterns: Elements of Reusable OO Software| Gamma et al.        | 7%                |
-| Software Engineering | Desiging Data-Intensive Applications             | Martin Kleppman     | 4%                |
+| Subject              | Title                                                                        | Author             | Completion Status |
+|----------------------|------------------------------------------------------------------------------|--------------------|-------------------|
+| Mathematics/Science  | [The Art of Doing Science and Engineering](./ArtOfScienceAndEngineering)     | Richard W. Hamming | 8%                |
+| Software Engineering | [Design Patterns: Elements of Reusable OO Software](./DesignPatterns)        | Gamma et al.       | 7%                |
+| Software Engineering | [Desiging Data-Intensive Applications](./DesigningDataIntensiveApplications) | Martin Kleppman    | 4%                |
+| Software Engineering | [The Mythical Man-Month: Essays on Software Engineering](./MythicalManMonth) | Frederick P. Brooks Jr. |                   |
+| Software Engineering | [Cracking the Coding Interview](./CtCI)                                      | Gayle Laakmann McDowell | 10%               |
